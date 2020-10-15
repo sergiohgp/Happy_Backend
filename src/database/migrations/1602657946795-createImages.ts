@@ -19,7 +19,7 @@ export default class createImages1602657946795 implements MigrationInterface {
           },
           {
             name: 'orphanage_id',
-            type: 'uuid',
+            type: 'varchar',
           },
           {
             name: 'created_at',
