@@ -2,7 +2,7 @@
 
 # Express API for the Happy App project
 
-> Connecting people to Ongs in the simplest way
+> Connecting people to Orphanages in the simplest way
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergio-hg-pereira/" target="_blank" rel="noopener noreferrer">
@@ -39,11 +39,11 @@
 
 # :smile: About the project
 
-This api provides everything needed to connect regular people to local ONGs.
+This api provides everything needed to connect regular people to local Orphanages.
 
-Users can find and track the location of ONGs near them.
+The users can find and track the location of Orphanages near them.
 
-The ONGs can register their information to be seen in the app.
+The Orphanages can register their information to be seen in the app.
 
 To see the **web client**, click here: [GoBarber Web](https://github.com/sergiohgp/Happy_Web)<br />
 
