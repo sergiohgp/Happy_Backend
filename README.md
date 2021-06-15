@@ -156,7 +156,7 @@ If you already found a solution to your problem, **i would appreciate to review 
 # :book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/sergiohgp/GoStack_GoBarber/blob/master/LICENSE).
+This project is under the [MIT license](https://github.com/sergiohgp/Happy_Backend/blob/master/LICENSE).
 
 ---
 
